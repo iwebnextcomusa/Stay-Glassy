@@ -1,0 +1,6 @@
+{
+  "name": "StayGlassy",
+  "description": "StayGlassy.ca is an educational card game company based in Sacramento, CA. This website serves educators, schools, parents, and students with details, resources, checkout placeholders, and planning blueprints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
